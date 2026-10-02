@@ -1,0 +1,2 @@
+# premium-saas-cac-001-cac-and-ltv-ratio-dashboard-te
+spending hours building a system before you can actually use it costs you real money. This Notion template pays for itself in one use.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Cac And Ltv Ratio Dashboard — ful
